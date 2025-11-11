@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+}
+table,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+td{
+    padding: 8px;
+}
